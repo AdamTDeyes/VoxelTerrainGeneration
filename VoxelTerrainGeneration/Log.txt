@@ -1,0 +1,12 @@
+Initializing world thread
+  at System.Collections.Generic.List`1+Enumerator[Chunk].VerifyState () [0x0003c] in /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Collections.Generic/List.cs:778 
+  at System.Collections.Generic.List`1+Enumerator[Chunk].MoveNext () [0x00000] in /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Collections.Generic/List.cs:784 
+  at World.<Start>m__0 () [0x00213] in D:\Unity Projects\VoxelTerrainGeneration\VoxelTerrainGeneration\Assets\Scripts\World.cs:91 
+  at System.Collections.Generic.List`1+Enumerator[Chunk].VerifyState () [0x0003c] in /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Collections.Generic/List.cs:778 
+  at System.Collections.Generic.List`1+Enumerator[Chunk].MoveNext () [0x00000] in /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Collections.Generic/List.cs:784 
+  at World.<Start>m__0 () [0x00213] in D:\Unity Projects\VoxelTerrainGeneration\VoxelTerrainGeneration\Assets\Scripts\World.cs:91 
+  at System.Collections.Generic.List`1+Enumerator[Chunk].VerifyState () [0x0003c] in /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Collections.Generic/List.cs:778 
+  at System.Collections.Generic.List`1+Enumerator[Chunk].MoveNext () [0x00000] in /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Collections.Generic/List.cs:784 
+  at World.<Start>m__0 () [0x00213] in D:\Unity Projects\VoxelTerrainGeneration\VoxelTerrainGeneration\Assets\Scripts\World.cs:91 
+Stopping world thread
+World thread succesfully stopped
